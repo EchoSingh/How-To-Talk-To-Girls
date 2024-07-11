@@ -1,5 +1,5 @@
 # How-To-Talk-To-Girls 👩‍❤️‍👨💬
-
+![Cover Image](https://github.com/aditya26062003/How-To-Talk-To-Girls/blob/main/Screenshots/a.jpg)
 Welcome to **How-To-Talk-To-Girls**! This project aims to provide practical tips and advice on how to initiate and maintain conversations with girls. Whether you're looking to improve your social skills or just seeking some friendly advice, you're in the right place!
 
 ## Features ✨
