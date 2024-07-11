@@ -1,5 +1,7 @@
 # How-To-Talk-To-Girls 👩‍❤️‍👨💬
+
 ![Cover Image](https://github.com/aditya26062003/How-To-Talk-To-Girls/blob/main/Screenshots/a.jpg)
+
 Welcome to **How-To-Talk-To-Girls**! This project aims to provide practical tips and advice on how to initiate and maintain conversations with girls. Whether you're looking to improve your social skills or just seeking some friendly advice, you're in the right place!
 
 ## Features ✨
@@ -8,6 +10,7 @@ Welcome to **How-To-Talk-To-Girls**! This project aims to provide practical tips
 - **Do's and Don'ts**: Learn what to avoid and what to embrace when talking to girls.
 - **Confidence Boost**: Boost your self-esteem with our confidence-building exercises.
 - **Custom Dataset**: Access our unique dataset for deeper insights and analysis.
+- **Interactive Model**: Try out our model on [Hugging Face](https://huggingface.co/spaces/adi2606/Taking-to-girls).
 
 ## Table of Contents 📚
 
@@ -49,6 +52,12 @@ We have compiled a custom dataset to provide deeper insights into conversational
 1. Download the dataset from Kaggle.
 2. Analyze the data to uncover patterns and strategies.
 3. Apply the insights to improve your conversational skills.
+
+## Resources 📚
+
+- [Books](#books)
+- [Online Courses](#online-courses)
+- [YouTube Channels](#youtube-channels)
 
 ## Contributing 🤝
 
