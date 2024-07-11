@@ -53,12 +53,6 @@ We have compiled a custom dataset to provide deeper insights into conversational
 2. Analyze the data to uncover patterns and strategies.
 3. Apply the insights to improve your conversational skills.
 
-## Resources 📚
-
-- [Books](#books)
-- [Online Courses](#online-courses)
-- [YouTube Channels](#youtube-channels)
-
 ## Contributing 🤝
 
 Contributions are welcome! If you have tips or advice that you think should be included, feel free to submit a pull request or open an issue.
