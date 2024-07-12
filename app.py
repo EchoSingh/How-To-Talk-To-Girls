@@ -23,7 +23,7 @@ if st.button('Get Advice'):
 st.markdown("""
     <style>
     body {
-        background-image: url("https://your-image-url.jpg");
+        background-image: url("image.jpeg");
         background-size: cover;
         font-family: Arial, Helvetica, sans-serif;
     }
