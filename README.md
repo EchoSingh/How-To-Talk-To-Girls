@@ -59,4 +59,4 @@ Contributions are welcome! If you have tips or advice that you think should be i
 
 ## License 📜
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/aditya26062003/How-To-Talk-To-Girls/blob/main/LICENSE) file for details.
