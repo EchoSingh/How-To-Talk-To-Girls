@@ -59,8 +59,4 @@ Contributions are welcome! If you have tips or advice that you think should be i
 
 ## License 📜
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to reach out if you have any questions or need further assistance. Happy talking! 🎉
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
